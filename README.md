@@ -1,5 +1,7 @@
 # Market Sales Analysis – Tiger Analytics Assignment
 
+Working Project link : https://exploratory-data-analysis-assignment-rahul.streamlit.app/
+
 ## Project Overview
 
 This project is an **Exploratory Data Analysis (EDA)** assignment completed for **Tiger Analytics** as part of an internship evaluation. The dataset contains monthly sales and operational data for over **690 retail stores** across the U.S. from **2015 to 2020**.
