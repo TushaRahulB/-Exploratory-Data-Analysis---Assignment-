@@ -1,40 +1,69 @@
-Market Sales Analysis – Tiger Analytics Assignment
+# Market Sales Analysis – Tiger Analytics Assignment
 
-This project is an exploratory data analysis (EDA) assignment completed for Tiger Analytics as part of an internship evaluation. The dataset consists of monthly sales and operational data for over 690 retail stores in the U.S. from 2015 to 2020. Each store is categorized by divisions (like GIRLS, BOYS, KIDS, etc.), and additional attributes such as store type, climate zone, square footage, opening/closing dates, and remodeling status are included.
+## Project Overview
 
-The objective of the analysis is to uncover key business insights that can guide the client (a major U.S. apparel retailer) in making strategic decisions—such as identifying profitable store segments, ideal locations for expansion, seasonal trends in sales, and patterns behind store closures or remodels.
+This project is an **Exploratory Data Analysis (EDA)** assignment completed for **Tiger Analytics** as part of an internship evaluation. The dataset contains monthly sales and operational data for over **690 retail stores** across the U.S. from **2015 to 2020**.
 
-The project uses Python and the Streamlit library to create an interactive web-based dashboard. Each business question is presented with:
+Each store is categorized under super divisions such as **GIRLS, BOYS, KIDS**, and **ACCESSORIES**, and includes attributes like:
 
-A clear explanation
+- Store type (Outlet, Full-line, etc.)
+- Climate zone
+- Total square footage
+- Opening and closing dates
+- Remodeling status
 
-A visual/chart/table output
+---
 
-An expandable code block for transparency
+## 🎯 Objective
 
-Key Questions Answered:
-What is the total sales trend year-over-year?
+The goal of the analysis is to uncover **actionable business insights** that help a major U.S. apparel retailer make informed strategic decisions—such as:
 
-Which super division generates the most revenue?
+- Identifying the most profitable store segments
+- Evaluating top-performing regions for expansion
+- Understanding seasonality in sales trends
+- Analyzing store closures and remodeling patterns
 
-How many stores were opened in 1991 or remodeled later?
+---
 
-Is there a correlation between sales and store size?
+## 🖥️ Features of the Streamlit Dashboard
 
-Which states show the highest sales potential?
+Each question is presented with:
 
-What is the ideal month to open a new store?
+- ✅ A clear explanation
+- 📊 Visual/chart/table outputs
+- 🔍 Expandable code block for transparency
 
-Do outlet types influence store closure rates?
+---
 
-Technologies Used:
-Python (Pandas, Matplotlib, Seaborn)
+## 🔍 Key Questions Answered
 
-Streamlit for dashboard UI
+- What is the total sales trend year-over-year?
+- Which super division generates the most revenue?
+- How many stores were opened in 1991 or remodeled?
+- Is there a correlation between sales and square footage?
+- Which states show the highest sales potential?
+- What is the ideal time of year to open a new store?
+- Do outlet types affect store closures?
 
-OpenPyXL for Excel file handling
+---
 
-The final output is a client-ready interactive app designed to help decision-makers explore data visually without writing code. It demonstrates the application of real-world EDA practices to business problems.
+## 🛠️ Technologies Used
 
-📎 Visit my portfolio: tusharahul.netlify.app
+- **Python** – `pandas`, `matplotlib`, `seaborn`
+- **Streamlit** – for building the interactive dashboard
+- **OpenPyXL** – for reading Excel datasets
 
+---
+
+## 📎 Author & Portfolio
+
+Made with 💼 by [**Tusha Rahul**](https://tusharahul.netlify.app)  
+🔗 Portfolio: [tusharahul.netlify.app](https://tusharahul.netlify.app)
+
+---
+
+## 📌 How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run eda_app.py
