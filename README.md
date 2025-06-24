@@ -57,7 +57,7 @@ Each question is presented with:
 
 ## 📎 Author & Portfolio
 
-Made with 💼 by [**Tusha Rahul**](https://tusharahul.netlify.app)  
+Made by [**Tusha Rahul**](https://tusharahul.netlify.app)  
 🔗 Portfolio: [tusharahul.netlify.app](https://tusharahul.netlify.app)
 
 ---
