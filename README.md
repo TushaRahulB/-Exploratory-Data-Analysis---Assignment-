@@ -14,7 +14,7 @@ Each store is categorized under super divisions such as **GIRLS, BOYS, KIDS**, a
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The goal of the analysis is to uncover **actionable business insights** that help a major U.S. apparel retailer make informed strategic decisions—such as:
 
@@ -25,17 +25,17 @@ The goal of the analysis is to uncover **actionable business insights** that hel
 
 ---
 
-## 🖥️ Features of the Streamlit Dashboard
+## Features of the Streamlit Dashboard
 
 Each question is presented with:
 
-- ✅ A clear explanation
-- 📊 Visual/chart/table outputs
-- 🔍 Expandable code block for transparency
+- A clear explanation
+- Visual/chart/table outputs
+- Expandable code block for transparency
 
 ---
 
-## 🔍 Key Questions Answered
+## Key Questions Answered
 
 - What is the total sales trend year-over-year?
 - Which super division generates the most revenue?
@@ -47,7 +47,7 @@ Each question is presented with:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** – `pandas`, `matplotlib`, `seaborn`
 - **Streamlit** – for building the interactive dashboard
@@ -55,14 +55,14 @@ Each question is presented with:
 
 ---
 
-## 📎 Author & Portfolio
+##  Author & Portfolio
 
 Made by [**Tusha Rahul**](https://tusharahul.netlify.app)  
-🔗 Portfolio: [tusharahul.netlify.app](https://tusharahul.netlify.app)
+Portfolio: [tusharahul.netlify.app](https://tusharahul.netlify.app)
 
 ---
 
-## 📌 How to Run
+##  How to Run
 
 ```bash
 pip install -r requirements.txt
