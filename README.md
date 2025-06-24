@@ -67,6 +67,8 @@ Portfolio: [tusharahul.netlify.app](https://tusharahul.netlify.app)
 
 ![image](https://github.com/user-attachments/assets/5d4e512f-7e29-476b-b1de-326b2776e9c6)
 
+![image](https://github.com/user-attachments/assets/f21516e2-0793-414c-812e-9d320a341f73)
+
 ![image](https://github.com/user-attachments/assets/70885b8d-81dc-4e9f-b7c2-8ea1cd4b976f)
 
 ![image](https://github.com/user-attachments/assets/08b9f8a2-4761-4a53-97cb-6a10d4d983b2)
