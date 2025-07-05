@@ -1,6 +1,7 @@
 # Market Sales Analysis – Tiger Analytics Assignment
 
 Working Project link : https://exploratory-data-analysis-assignment-rahul.streamlit.app/
+(will be in sleep mode if not used for since days, so need to startt the app get backup)
 
 ## Project Overview
 
